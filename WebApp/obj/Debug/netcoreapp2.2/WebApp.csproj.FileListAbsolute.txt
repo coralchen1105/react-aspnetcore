@@ -1,0 +1,14 @@
+C:\Users\coral\source\repos\WebApp\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+C:\Users\coral\source\repos\WebApp\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+C:\Users\coral\source\repos\WebApp\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+C:\Users\coral\source\repos\WebApp\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+C:\Users\coral\source\repos\WebApp\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+C:\Users\coral\source\repos\WebApp\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
